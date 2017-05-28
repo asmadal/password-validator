@@ -1,4 +1,5 @@
 package com.example.asma.csci3130_a2;
+
 /**
  * This stage checks whether a string is a sufficiently strong password according to TWO set of rules
  * and return the number of rules that the string passed.
